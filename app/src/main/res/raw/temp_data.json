@@ -1,0 +1,125 @@
+{
+  "Select Sem": {
+
+                "enrollNo" :{}
+  },
+
+  "Semester 1" : {
+
+            "enrollNo" : {
+
+              "DATA IS NOT AVAILABLE" : {}
+            }
+
+  },
+
+  "Semester 2": {
+
+                "enrollNo" :
+                    {
+                      "Select Enroll No" :{"":"Select Proper Enroll No"},
+                      "120410107108": { "Name":"MEHTA MARGI K", "CD":12, "WCMP":23, "ACT":26, "AJAVA":26, "WDM":27, ".NET":0},
+                      "120410107110": { "Name":"VYOM PATEL ", "CD":16, "WCMP":24, "ACT":24, "AJAVA":22, "WDM":0, ".NET":23},
+                      "120410107112": { "Name":"DESAI JHANVI S", "CD":12, "WCMP":22, "ACT":20, "AJAVA":26, "WDM":22, ".NET":0},
+                      "120410107114": { "Name":"DHARMAVARAM SHIVANI G", "CD":26, "WCMP":21, "ACT":27, "AJAVA":27, "WDM":0, ".NET":27},
+                      "120410107116": { "Name":"DESAI RUNAV T", "CD":8, "WCMP":22, "ACT":23, "AJAVA":22, "WDM":17, ".NET":0},
+                      "120410107118": { "Name":"GANDHI VEDANTKUMAR T", "CD":12, "WCMP":24, "ACT":25, "AJAVA":21, "WDM":6, ".NET":0},
+                      "120410107120": { "Name":"DIXIT UTKARSHA A", "CD":16, "WCMP":23, "ACT":28, "AJAVA":16, "WDM":0, ".NET":24},
+                      "120410107122": { "Name":"RANA DHANRAJ P", "CD":8, "WCMP":19, "ACT":25, "AJAVA":23, "WDM":20, ".NET":0},
+                      "120410107124": { "Name":"SHAH POOJA P", "CD":3, "WCMP":16, "ACT":15, "AJAVA":22, "WDM":18, ".NET":0},
+                      "120410107126": { "Name":"VISHWANATH IYER ", "CD":17, "WCMP":23, "ACT":25, "AJAVA":25, "WDM":16, ".NET":0}
+                    }
+  },
+
+  "Semester 3" : {
+
+    "enrollNo" : {
+      "DATA IS NOT AVAILABLE" : {}
+    }
+
+  },
+
+  "Semester 4" : {
+				"sub1" : "CD",
+				"sub2" : "WCMP",
+				"sub3" : "ACT",
+				"sub4" : "AJAVA",
+				"sub5" : "WDM",
+				"sub6" : ".NET",
+				"enrollNo" :
+						{
+                                  "Select Enroll No" :{},
+								  "120410107002": { "Name":"GUPTE NEHA K", "CD":22, "WCMP":23, "ACT":29, "AJAVA":27, "WDM":0, ".NET":28},
+								  "120410107004": { "Name":"SHAH SUCHIT B", "CD":29, "WCMP":24, "ACT":25, "AJAVA":26, "WDM":0, ".NET":21},
+								  "120410107006": { "Name":"VORA DEVANSH H", "CD":16, "WCMP":22, "ACT":25, "AJAVA":20, "WDM":13, ".NET":0},
+								  "120410107008": { "Name":"SHUKLA STUTI K", "CD":22, "WCMP":23, "ACT":27, "AJAVA":24, "WDM":0, ".NET":22},
+								  "120410107010": { "Name":"KANSAGARA KHUSHBUBEN M", "CD":18, "WCMP":24, "ACT":29, "AJAVA":25, "WDM":0, ".NET":29},
+								  "120410107012": { "Name":"SHETH RUTVI A", "CD":15, "WCMP":24, "ACT":25, "AJAVA":20, "WDM":0, ".NET":12},
+								  "120410107014": { "Name":"PATEL RUCHI J", "CD":27, "WCMP":22, "ACT":27, "AJAVA":24, "WDM":0, ".NET":27},
+								  "120410107016": { "Name":"AMIN JINIL S", "CD":16, "WCMP":19, "ACT":24, "AJAVA":13, "WDM":0, ".NET":19},
+								  "120410107018": { "Name":"SHAH ABHI V", "CD":17, "WCMP":21, "ACT":25, "AJAVA":20, "WDM":25, ".NET":0},
+								  "120410107020": { "Name":"THAKKAR MAYANK R", "CD":15, "WCMP":24, "ACT":28, "AJAVA":25, "WDM":16, ".NET":0}
+                        }
+			    },
+
+  "Semester 5" : {
+
+    "enrollNo" : {
+      "DATA IS NOT AVAILABLE" : {}
+    }
+
+  },
+  "Semester 6": {
+
+                "enrollNo" :
+                  {
+                    "Select Enroll No" :{},
+                    "120410107022": { "Name":"PATEL PARTH Y", "CD":19, "WCMP":18, "ACT":24, "AJAVA":24, "WDM":15, ".NET":0},
+                    "120410107024": { "Name":"KUMAVAT MALHAR D", "CD":12, "WCMP":19, "ACT":19, "AJAVA":21, "WDM":17, ".NET":0},
+                    "120410107026": { "Name":"PATEL AYUSHI S", "CD":24, "WCMP":24, "ACT":28, "AJAVA":25, "WDM":0, ".NET":25},
+                    "120410107028": { "Name":"MEHTA DIPAN S", "CD":13, "WCMP":20, "ACT":24, "AJAVA":24, "WDM":0, ".NET":21},
+                    "120410107030": { "Name":"DARJI SONALI A", "CD":20, "WCMP":23, "ACT":22, "AJAVA":26, "WDM":0, ".NET":21},
+                    "120410107032": { "Name":"SHETH DISHANT D", "CD":21, "WCMP":23, "ACT":21, "AJAVA":24, "WDM":0, ".NET":20},
+                    "120410107034": { "Name":"MEHTA DRASHTI N", "CD":12, "WCMP":24, "ACT":26, "AJAVA":16, "WDM":0, ".NET":22},
+                    "120410107036": { "Name":"MAVANI URVASHI G", "CD":12, "WCMP":19, "ACT":"AB", "AJAVA":17, "WDM":18, ".NET":0},
+                    "120410107038": { "Name":"AGRAWAL ARPIT C", "CD":8, "WCMP":23, "ACT":26, "AJAVA":24, "WDM":26, ".NET":0},
+                    "120410107040": { "Name":"OZA SHEELANG V", "CD":"AB", "WCMP":"AB", "ACT":"AB", "AJAVA":23, "WDM":"AB", ".NET":0}
+                  }
+                },
+
+  "Semester 7" : {
+
+    "enrollNo" : {
+      "DATA IS NOT AVAILABLE" : {}
+    }
+
+  },
+  "Semester 8": {
+
+                "enrollNo" :
+                    {
+                      "Select Enroll No" :{},
+                      "120410107042": { "Name":"SHAH KHYATI J", "CD":17, "WCMP":23, "ACT":26, "AJAVA":25, "WDM":0, ".NET":18},
+                      "120410107044": { "Name":"BAVISHI SHWETA N", "CD":13, "WCMP":24, "ACT":23, "AJAVA":21, "WDM":0, ".NET":22},
+                      "120410107046": { "Name":"PATEL MONALI K", "CD":23, "WCMP":24, "ACT":24, "AJAVA":26, "WDM":0, ".NET":22},
+                      "120410107048": { "Name":"DOSHI ARUSHI R", "CD":22, "WCMP":24, "ACT":27, "AJAVA":27, "WDM":27, ".NET":0},
+                      "120410107050": { "Name":"ALLA AVIGHNAREDDY V", "CD":13, "WCMP":23, "ACT":21, "AJAVA":20, "WDM":0, ".NET":22},
+                      "120410107052": { "Name":"SHUKLA KETUL M", "CD":15, "WCMP":24, "ACT":23, "AJAVA":25, "WDM":23, ".NET":0},
+                      "120410107056": { "Name":"SHAH HETABEN K", "CD":17, "WCMP":23, "ACT":24, "AJAVA":25, "WDM":0, ".NET":26},
+                      "120410107058": { "Name":"AMIN KUSHAL D", "CD":15, "WCMP":24, "ACT":28, "AJAVA":26, "WDM":0, ".NET":28},
+                      "120410107060": { "Name":"RATHOD BRIDGEETA R", "CD":22, "WCMP":23, "ACT":16, "AJAVA":18, "WDM":0, ".NET":24},
+                      "120410107066": { "Name":"PAREKH NIDHI A", "CD":12, "WCMP":22, "ACT":20, "AJAVA":23, "WDM":0, ".NET":26},
+                      "120410107068": { "Name":"KADIA JALPABEN A", "CD":12, "WCMP":22, "ACT":25, "AJAVA":25, "WDM":0, ".NET":24},
+                      "120410107070": { "Name":"SOLANKI PRATIXABEN S", "CD":15, "WCMP":24, "ACT":26, "AJAVA":22, "WDM":0, ".NET":23},
+                      "120410107072": { "Name":"MISTRY YAMINI D", "CD":12, "WCMP":23, "ACT":"AB", "AJAVA":22, "WDM":0, ".NET":"AB"},
+                      "120410107076": { "Name":"PATEL BANSRI J", "CD":12, "WCMP":24, "ACT":25, "AJAVA":20, "WDM":0, ".NET":19},
+                      "120410107078": { "Name":"VAGHELA ANKIT J", "CD":"AB", "WCMP":22, "ACT":16, "AJAVA":14, "WDM":0, ".NET":"AB"},
+                      "120410107080": { "Name":"PATEL KINJAL A", "CD":"AB", "WCMP":13, "ACT":"AB", "AJAVA":6, "WDM":0, ".NET":"AB"},
+                      "120410107082": { "Name":"MAKWANA NIKITABEN K", "CD":2, "WCMP":24, "ACT":25, "AJAVA":20, "WDM":0, ".NET":21},
+                      "120410107086": { "Name":"PATEL SHIVANI R", "CD":12, "WCMP":21, "ACT":25, "AJAVA":23, "WDM":0, ".NET":14},
+                      "120410107088": { "Name":"GANDHI JAY K", "CD":17, "WCMP":23, "ACT":27, "AJAVA":18, "WDM":0, ".NET":25},
+                      "120410107092": { "Name":"MEHTA SWETA P", "CD":18, "WCMP":22, "ACT":26, "AJAVA":21, "WDM":27, ".NET":0},
+                      "120410107094": { "Name":"BADOLA SHUBHAM K", "CD":13, "WCMP":21, "ACT":20, "AJAVA":23, "WDM":0, ".NET":16}
+                    }
+                }
+}
